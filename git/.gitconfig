@@ -1,0 +1,14 @@
+[user]
+	email = bgomesdeabreu@gmail.com
+	name = Bernardo Gomes
+[push]
+	default = simple
+[core]
+	editor = vim
+[alias]
+        co = checkout
+        ci = commit
+        st = status
+        ps = push
+        l = log
+        df = diff
